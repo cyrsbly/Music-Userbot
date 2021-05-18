@@ -20,6 +20,10 @@ https://t.me/KINGBOTOFFICIAL
 
 https://t.me/KINGBOTOFFICIALCHAT
 
+### How to use 
+
+Likhna baki h frd but now you deploy and type !help
+
 ### Mandatory Vars.
 
 - Some Of The Mandatory Vars Are :-
@@ -29,4 +33,4 @@ https://t.me/KINGBOTOFFICIALCHAT
 
 ### Repository License 
 
-[Licence of KINGBOT MUSIC USERBOT](https://github.com/kartikrajofficial/MusicBot/blob/master/LICENSE)
+[Licence of KINGBOT MUSIC USERBOT](https://github.com/kartikrajofficial/Music-Userbot/blob/master/LICENSE)
